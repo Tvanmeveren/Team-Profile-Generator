@@ -7,7 +7,7 @@ First you download the generatorthen go into the terminal and type npm i inquire
 
 Usage Video: https://drive.google.com/file/d/1aYcnkTm0KjZ7zM6pSNaYZviHa0wAcOSJ/view
 
-Live site: 
+Live site:  https://tvanmeveren.github.io/Team-Profile-Generator/
 
 ![image](https://user-images.githubusercontent.com/111665712/200735577-b56ec823-f35b-449c-b660-9189e6c4f351.png)
 
