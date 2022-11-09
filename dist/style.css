@@ -1,0 +1,20 @@
+header {
+    background-color: rgb(243, 101, 6);
+    font-size: 8rem;
+    text-align: center;
+    padding: 40px 30px;
+    
+}
+.card {
+    border: 1px solid #000;
+   margin: 8px;
+   box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.75);
+ 
+}
+.team {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
