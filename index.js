@@ -1,6 +1,6 @@
 const inquirer = require("inquirer")
 const fs = require('fs');
-const generateSite = require('./src/generateSite');
+const generate = require('./src/generate');
 const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern');
@@ -111,7 +111,7 @@ const writeFile = data => {
 teamManager()
     .then(addTeam)
     .then(teamsArr => {
-        return generateSite(teamsArr);
+        return generate(teamsArr);
     })
     .then(pageHTML => {
         return writeFile(pageHTML);
