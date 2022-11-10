@@ -11,7 +11,8 @@ Live site:  https://tvanmeveren.github.io/Team-Profile-Generator/
 
 ![image](https://user-images.githubusercontent.com/111665712/200735577-b56ec823-f35b-449c-b660-9189e6c4f351.png)
 
-
+<h2> Questions</h2>
+If you have any questions please contact me at tyvan07@yahoo.com or https://github.com/Tvanmeveren
 <h2>Credits</h2>
 N/A
 
