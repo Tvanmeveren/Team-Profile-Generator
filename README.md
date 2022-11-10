@@ -13,6 +13,11 @@ Live site:  https://tvanmeveren.github.io/Team-Profile-Generator/
 
 <h2> Questions</h2>
 If you have any questions please contact me at tyvan07@yahoo.com or https://github.com/Tvanmeveren
+
+<h2>License</h2>
+This project is covered under the MIT License.
+MIT License
+
 <h2>Credits</h2>
 N/A
 
